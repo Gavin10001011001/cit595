@@ -1,10 +1,1 @@
-this is a new readme file, which used for Project 0. this is a new readme file, which used for Project 0. this is a new readme file, which used for Project 0.
-this is a new readme file, which used for Project 0.
-this is a new readme file, which used for Project 0.
-this is a new readme file, which used for Project 0.
-this is a new readme file, which used for Project 0.
-this is a new readme file, which used for Project 0.
-this is a new readme file, which used for Project 0.
-this is a new readme file, which used for Project 0.
-this is a new readme file, which used for Project 0.
-this is a new readme file, which used for Project 0.
+In cit595, i am expecting to learn about how is the operation system works and how we do related programming for example, how we program in different OS such as MacOS, Windows and why we have different OS and how they works. During the first Module of learning, the steps to setup Git repository and DOcker was prettty smooth and the guide is pretty detailed. And just realized my OS was too old to download Docker lol. But all goods now and excited to learn some new tools.
